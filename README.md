@@ -1,2 +1,2 @@
 # sqlpractice
-Patika -  SQL Sorguları Ödev - 1
+Patika -  SQL Sorguları Ödevleri
